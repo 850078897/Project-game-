@@ -1,3 +1,4 @@
+
 def game():
     print("I wake up in a dim light...")
     print("Remember before you went to hospital, you fainted from overwork, and now...No one has.")
@@ -101,7 +102,7 @@ def newbee5():
         newbee7()
         
 def newbee6():
-    print("Finally you came to the street, you win WOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOWOOWOWOWOWOWOWOWOW卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼卢本伟牛逼")
+    print("You won")
 def newbee7():
     print("After you kill him, other zombies already surrounded you... Game over!!!")
 def newbee8():
@@ -113,10 +114,11 @@ def game100():
     print("You go down the stairs, suddenly found a group of faces of the ferocious 'people' -- the zombie...")
     print("And then, Game over!!!")
     print("DO U WANA TRY AGAIN?")
-    sb = int(input("YES OR NO? "))
-    if sb == "YES":
+    print("YES = 1, NO = 2")
+    sb = int(input("1 or 2? "))
+    if sb == "1":
         game()
-    elif sb =="No":
+    elif sb =="2":
         print("bye")
         
         
