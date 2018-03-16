@@ -18,3 +18,4 @@ There is a better way that put each plot in functions so we are able to go back 
 
 Create background and pictures by using pygame.
 The pictures are able to change when the player type the answers.
+If the player choice the wrong answer, the death scence will come out.
