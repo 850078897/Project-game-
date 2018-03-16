@@ -15,4 +15,6 @@ Right answer: 1(Chasing the boy), 1(Show kindness to the boy, but keep a certain
 There is a better way that put each plot in functions so we are able to go back if we choose wrong choice.
 
 **Next steps
-I need to fix this problem to improve my project.
+
+Create background and pictures by using pygame.
+The pictures are able to change when the player type the answers.
