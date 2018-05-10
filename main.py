@@ -61,8 +61,9 @@ while not crashed:
 
     gameDisplay.fill(white)
 
-    this_room=Room(0,gameDisplay)
+    this_room=Room(roomnum,gameDisplay)
     this_room.showimg()
+    this_room.showtext()
 
     #gameDisplay.blit(intro_page, (0, 0))
 

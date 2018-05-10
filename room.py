@@ -20,3 +20,7 @@ class Room:
     def showimg(self):
        room_img = pygame.image.load(self.image)
        self.display.blit(room_img, (0, 0))
+
+    def showtext(self):
+        for i in self.text:
+            break
